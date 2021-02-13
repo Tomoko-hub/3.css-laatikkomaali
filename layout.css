@@ -1,0 +1,145 @@
+html {
+    font-size: 62.50%;  /* 62.5% x 16px=10px*/
+}
+section {
+    background-color : #bbddee;
+    margin-bottom : 10px;
+}
+#eka {
+    margin: 20px 10px;
+}
+
+#punch {
+    float: left;
+    font-size: 400%;
+    width: 1.4em;
+    text-align: center;
+    padding: 0.1em 0.1em 0;
+    background: #568;
+    color: white;
+    border: solid white 1px; 
+    border-width: 0 0.2em 0.2em 0.2em;
+    margin: 0 0.2em 0.2em 0;
+}
+#eka .punchleft {
+    font-weight: bold;
+    font-size: 120%;
+    padding: 6px;
+} 
+#eka pre {
+    font-size: 1rem;
+    margin: 0 10px;
+    font-family: 'Courier New', Courier, monospace;
+    margin-left: -7.5em;
+    padding: 10px;
+}
+
+#toka {
+    margin : 20px 10px;
+    border: solid black 1px;
+    border-width: 1px;
+}
+#main2 {
+    float: left;
+    /*+width: 0.8em;*/
+    width: 100px;
+    height: 70px;
+    text-align: center;
+    /*padding: 0.1em 0.1em 0;*/
+    background-color: white;
+    color:black;
+    border: solid black 1px;
+    border-width: 0 1px 1px 0;
+    padding: 0 7px 7px 0;
+    margin: 1px 20px 20px 1px;
+}
+#punch2 {
+    font-weight: bold;
+    text-align: right;
+    font-size: 140%;
+    background-color: #88AABB;
+    font-size: 140%;
+    text-transform: lowercase;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 6px;
+    border: #8BADC7 solid 1px;
+}
+#toka pre {
+    font-size: 1rem;
+    margin: 0 10px;
+    font-family: 'Courier New', Courier, monospace;
+    margin-left: -7.5em;
+    padding: 10px;
+}
+#toka p{
+    font-size: 1em;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 10px;
+    margin: 15px 5px 10px 0;
+    border: 15px
+}
+#kolmas {
+    margin-left: 10px;
+    margin-top: 30px;
+    border: solid black 1px;
+    border-width: 1px;
+}
+.punch3 {
+    font-weight: bold;
+    text-align: right;
+    font-size: 140%;
+    background-color: #88AABB;
+    font-size: 140%;
+    text-transform: lowercase;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 6px;
+    border-bottom: #8BADC7;
+    border: #8BADC7 solid 1px;
+}
+#kolmas .banneriteksti {
+    float: left;
+    width: 30%;
+    font-size: 0.3em;
+    background-color: white;
+    border: solid black 1px;
+    color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 10px;
+}
+#kolmas .bannerinjälki {
+    padding: 3px 0;
+}
+#kolmas .punch3b {
+    float: right;
+    width: 25%;
+    text-align: left; 
+    font-size: 140%;
+    font-weight: bold;
+    font-style: italic; 
+    padding: 1em;
+    text-indent: -0.5em;
+    background: white; 
+    color: black;
+    border: solid black 1px;
+    border-width: 1px 0 1px 1px;
+    margin: 0.2em -1px 0.2em 0.5em;
+}
+#kolmas pre {
+    font-size: 1rem;
+    margin: 0 10px;
+    font-family: 'Courier New', Courier, monospace;
+    margin-left: -7.5em;
+    padding: 10px;
+}
+#kolmas h3 {
+    font-weight: bold;
+    margin-bottom: 1rem;
+}
+#kolmas ul {
+    margin: 0px;
+}
+#kolmas li {
+    font-size: 1rem;
+    list-style: disc;
+    margin-left: 2rem;
+}
